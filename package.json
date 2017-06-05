@@ -1,0 +1,15 @@
+{
+  "//": [
+    "see contributing.md how to manage this file",
+    "see readme.md how to run"
+  ],
+  "name": "Indian RailWay Bot",
+  "description": "Indina Railway Enquiry Bot",
+  "license": "Zenith Commercial License",
+  "private": true,  
+  "main": "app.js",
+  "dependencies": {
+    "http": "*",
+    "railway-api": "*"  
+  }
+}
