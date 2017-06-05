@@ -8,8 +8,12 @@
   "license": "Zenith Commercial License",
   "private": true,  
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "install" : "make && make install"
+  },
   "dependencies": {
-    "http": "*",
-    "railway-api": "*"  
+    "railway-api": "*" ,
+    "http": "*"     
   }
 }
