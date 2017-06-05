@@ -6,11 +6,10 @@
   "name": "IndianRailWayBot",
   "description": "Indina Railway Enquiry Bot",
   "license": "Zenith Commercial License",
-  "private": true,  
+  "private": false,  
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "install" : "make && make install"
+    
   },
   "dependencies": {
     "railway-api": "*" ,
