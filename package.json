@@ -12,6 +12,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "node-telegram-bot-api": "*",
     "railway-api": "*" ,
     "http": "*"     
   }
